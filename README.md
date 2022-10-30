@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
-<a href="https://github.com/CreedTech/" target="blank"><img align="center" src="https://github.com/CreedTech/CreedTech/blob/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg" height="300" /></a>
+![]([https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif](https://github.com/CreedTech/CreedTech/blob/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg))
 
 
 <!--
