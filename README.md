@@ -11,4 +11,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)
 
-![mishmanners snake gif](https://github.com/CreedTech/CreedTech/blob/output/github-contribution-grid-snake.svg)
+![CreedTech snake gif](https://github.com/CreedTech/CreedTech/blob/output/github-contribution-grid-snake.svg)
