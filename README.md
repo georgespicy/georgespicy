@@ -5,3 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg)](https://wakatime.com/@CreedTech)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Lazy Programmer" width="700">
+
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CreedTech&theme=onedark&fire=DDDDDD)](https://git.io/streak-stats) |  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> |
+|----------|:-------------:|
