@@ -4,3 +4,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg)](https://wakatime.com/@CreedTech)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CreedTech&repo=github-readme-stats)](https://github.com/CreedTech/github-readme-stats)
