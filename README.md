@@ -9,6 +9,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CreedTech&theme=jolly" width="700">
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)]
+![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)
 
-
+![mishmanners snake gif](https://github.com/CreedTech/CreedTech/blob/output/github-contribution-grid-snake.svg)
