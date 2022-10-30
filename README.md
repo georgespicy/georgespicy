@@ -8,28 +8,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CreedTech&theme=jolly" width="700">
 
-```ascii    
-          My 2021 GitHub Skyline          
 
-         ✦                 ✦    ▁          ☽     ✦   
- ✦                 █          ▁▄██      ✧     ✧      
- ✧                ✦█  ▁ ▇     ████    ✦ ✧            
-  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
- ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
-▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
-
-```
-<!--
-``` 
-          @CreedTech' 2020 GitHub Skyline          
-
-     ✦            ✦    ✦    ✦ ▁               ✧  ✦   
-                         ▁    █        ▃          █  
- ✧    ✦             ▇    █    █✦  ☽ ▂▄ █ ▇       ✧█  
-  ▆  ✧   ▄ ✧  ▆ ▄   █    █ ▄  █ ▂✦▄ ██▆█ █        █  
-  █▅▃▃▁ ▁█ ▃▃▅█▆█▃▃▅█▅▃ ▃█▃█▃▃█▅█▅█▆████▃█ ▃✧▅▃ ▃ █▁ 
-▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
-
-```
---!>
-[![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)]
