@@ -4,4 +4,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg)](https://wakatime.com/@CreedTech)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CreedTech&repo=github-readme-stats)](https://github.com/CreedTech/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Lazy Programmer" width="700">
