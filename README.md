@@ -10,8 +10,9 @@
     <a href="[your-twitter-URL](https://twitter.com/techy_ayo)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4/project/70cad593-ad92-4d09-8ad4-f3121267fbc7"><img src="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4/project/70cad593-ad92-4d09-8ad4-f3121267fbc7.svg" alt="wakatime"></a>
+   
   </div>
+   <a href="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4/project/70cad593-ad92-4d09-8ad4-f3121267fbc7"><img src="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4/project/70cad593-ad92-4d09-8ad4-f3121267fbc7.svg" alt="wakatime"></a>
   <img src="https://komarev.com/ghpvc/?username=CreedTech&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there
