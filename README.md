@@ -18,7 +18,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="(https://github.com/CreedTech/CreedTech/blob/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg)" width="600" height="300"/>
+  <img src="https://github.com/CreedTech/CreedTech/blob/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg" width="600" height="300"/>
 </div>
 
 
