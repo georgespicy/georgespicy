@@ -10,6 +10,7 @@
     <a href="[your-twitter-URL](https://twitter.com/techy_ayo)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    [![wakatime](https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg)](https://wakatime.com/@CreedTech)
   </div>
   <img src="https://komarev.com/ghpvc/?username=CreedTech&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -22,9 +23,9 @@
 </div>
 
 
-
-<div align="center">
-  <h3>hammer_and_wrench: Languages and Tools :</h3>
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -41,8 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg)](https://wakatime.com/@CreedTech)
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
