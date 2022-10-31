@@ -13,17 +13,15 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=CreedTech&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="(https://github.com/CreedTech/CreedTech/blob/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg)" width="600" height="300"/>
 </div>
 
-### Hi there 👋
 
-![](https://github.com/CreedTech/CreedTech/blob/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg)
 
 [![wakatime](https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg)](https://wakatime.com/@CreedTech)
 
