@@ -12,7 +12,7 @@
     </a>
    
   </div>
-   <a href="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4"><img src="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4/" alt="wakatime"></a>
+   <a href="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4"><img src="https://wakatime.com/badge/user/2b26176a-f48a-4394-ac81-93c7fa69a6c4.svg" alt="wakatime"></a>
   <img src="https://komarev.com/ghpvc/?username=CreedTech&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there
