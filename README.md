@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/george_spicy">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="[your-twitter-URL](https://twitter.com/techy_ayo)">
+    <a href="https://twitter.com/iamgeorgespicy">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
    
