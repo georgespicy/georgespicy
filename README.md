@@ -22,7 +22,7 @@
 
 - 💼 Job interests: Software Engineer, Fullstack devloper.
 
-- 📫 How to reach me **akinosoissy@gmail.com**
+- 📫 How to reach me **kolawolegeorge28743@gmail.com**
 <br />
 <br />
 
