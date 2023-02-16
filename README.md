@@ -6,8 +6,8 @@
 
 <br />
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px">, I'm Israel</h1>
-<h3 align="center">A Full Stack Developer with a passion for building web applications.</h3>
+    width="30px">, I'm George Kolawole</h1>
+<h3 align="center">A software dev from Nigeria. I believe we could build something amazing together.</h3>
 <br />
 <br />
 
