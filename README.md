@@ -16,7 +16,7 @@
 - 👨‍🎓 I’m an instructor at **<a href="https://www.aptechota.com.ng" target="_blank">Aptech Computer Education,
   Ota</a>**
 
-- 📕 I'm currently extending my knowledge in python's django framework.
+- 📕 I'm currently extending my knowledge in data-science.
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
