@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/in/kolawole-george-4b914a212"><img
     src="https://img.icons8.com/fluent/40/000000/linkedin.png" /></a>
   <a href="https://twitter.com/akinoso_israel"><img src="https://img.icons8.com/fluent/40/000000/twitter.png" /></a>
-  <a href="https://www.instagram.com/israel_akinoso/"><img
+  <a href="https://www.instagram.com/george_spicy/"><img
       src="https://img.icons8.com/fluent/40/000000/instagram-new.png" /></a>
   <a href="https://dev.to/georgespicy">
     <img src="https://img.icons8.com/color/40/000000/link.png" /></a>
